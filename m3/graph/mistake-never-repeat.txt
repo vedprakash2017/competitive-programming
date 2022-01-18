@@ -1,0 +1,3 @@
+# dont use memset you running for max values can show wrong or tle
+# check var name, for loop start and end
+# always put cout<<endl; aat last and taake care of test cases 

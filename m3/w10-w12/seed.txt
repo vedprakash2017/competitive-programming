@@ -1,0 +1,195 @@
+tier 1
+
+661
+321
+555
+955
+760
+592
+387
+151
+168
+828
+179
+809
+617
+670
+
+tier 2
+
+532
+341
+935
+541
+4 
+733
+310
+922
+512
+519
+323
+713
+715
+525
+571
+985
+575
+578
+708
+577
+978
+586
+969
+961
+557
+950
+798
+996
+791
+770
+775
+754
+752
+381
+382
+375
+363
+605
+205
+823
+216
+172
+627
+413
+220
+228
+189
+426
+429
+428
+610
+611
+112
+849
+844
+430
+126
+122
+442
+139
+862
+868
+450
+147
+856
+463
+689
+888
+887
+878
+872
+695
+698
+892
+690
+647
+34 
+28 
+32 
+13 
+82 
+74 
+479
+278
+103
+92 
+905
+256
+
+
+tier 3 
+
+seed == 95 or seed == 164 or seed == 433 or seed == 153 or seed == 497 or seed == 616 or seed == 927 or seed == 704 or seed == 587 or seed == 579 or seed == 236 or seed == 502 or seed == 761 or seed == 236 or seed == 8 or seed == 153 or seed == 248 or seed == 456
+
+5 7 
+
+seed == 103 or seed == 381 or seed == 387 or seed == 555 or seed == 905 or seed == 28 or seed == 179 or seed == 122 or seed == 955 or seed == 148 or seed == 235 or seed == 460 or seed == 975 or seed == 322 or seed == 372 or seed == 716 or seed == 736 or seed == 278 or seed == 363 or seed == 690 or seed == 868 or seed == 72 or seed == 151 or seed == 215 or seed == 700 or seed == 770 or seed == 849 or seed == 888 or seed == 25 or seed == 538 or seed == 856
+
+tier 1
+
+seed == 872 or
+seed == 278 or
+seed == 363 or
+seed == 868 or
+seed == 690 or
+seed == 532 or 
+seed == 872 or 
+seed == 670 or 
+seed == 321 
+
+tier 2
+
+seed == 814 or 
+seed == 809 or 
+seed == 935 or 
+seed == 809 or 
+seed == 187 or 
+seed == 122 or 
+seed == 555 or 
+seed == 122 or 
+seed == 81 or 
+seed == 833
+
+
+Mac - 10
+tier 1
+
+
+seed == 202 or 
+seed == 501 or
+seed == 315 or
+seed == 503 or
+seed == 313 or
+seed == 381 or 
+seed == 598 or
+seed == 292 or
+seed == 525 or
+seed == 22 or
+seed == 602 or
+seed == 424 or
+seed == 831
+
+seed == 95 or 
+seed == 19 or 
+seed == 251 or 
+seed == 748 or 
+seed == 890 or 
+seed == 239 or 
+seed == 295 or 
+seed == 406 or 
+seed == 199 or 
+seed == 807 or 
+
+
+
+seed == 295 or 
+seed == 602 or 
+seed == 22 or 
+seed == 87 or 
+seed == 990 or 
+seed == 114 or 
+seed == 292 or 
+seed == 525 or 
+seed == 598 or 
+seed == 381 or 
+seed == 501 or 
+seed == 315 or 
+seed == 503 or 
+seed == 313 or 
+seed == 807 or 
+seed == 80 or 
+seed == 831 or 
+seed == 95 or 
+seed == 890 or 
+seed == 502 or 
+seed == 251 
